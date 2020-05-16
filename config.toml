@@ -1,0 +1,24 @@
+base_url = "https://dmccrevan.github.io"
+theme="sam"
+
+compile_sass = true
+
+highlight_code = true
+
+build_search_index = true
+
+taxonomies = [
+    {name = "tags", rss = true}
+]
+
+[extra]
+
+date_format = "%a %b %e, %Y"
+
+sam_menu = [
+    { text = "posts", link = "/posts" },
+    { text = "about", link = "/about" },
+    { text = "github", link = "https://github.com/dmccrevan" }
+]
+
+sam_bottom_menu = true
