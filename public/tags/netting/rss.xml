@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title></title>
+        <link>https://dmccrevan.github.io</link>
+        <description></description>
+        <generator>Zola</generator>
+        <language>en</language>
+        <atom:link href="https://dmccrevan.github.io/tags/netting/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 15 May 2020 00:00:00 +0000</lastBuildDate>
+        
+            <item>
+                <title>Netting Dev Blog #1</title>
+                <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+                <link>https://dmccrevan.github.io/posts/first/</link>
+                <guid>https://dmccrevan.github.io/posts/first/</guid>
+                <description>&lt;p&gt;Welcome to my first development blog about &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;Netting-Mesh&#x2F;netting&quot;&gt;Netting&lt;&#x2F;a&gt;. In this series, I am going to be posting updates
+about the project and any cool findings during my time developing.&lt;&#x2F;p&gt;
+&lt;p&gt;To introduce you to the project, I am going to copy&#x2F;paste the description I have
+in my &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;Netting-Mesh&#x2F;netting&#x2F;blob&#x2F;master&#x2F;README.md&quot;&gt;README&lt;&#x2F;a&gt;:&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Netting is an unopinionated, simple, fast service mesh written in Rust. Its main goal is to solve the
+issue service mesh&#x27;s face now with forcing users into using specific infrastructure as well as being
+hard to integrate into an already existing Kubernetes cluster. Netting will be a plug &amp;amp; play type of 
+mesh.&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;I have been exposed to technologies like &lt;a href=&quot;https:&#x2F;&#x2F;istio.io&quot;&gt;Istio&lt;&#x2F;a&gt;, &lt;a href=&quot;https:&#x2F;&#x2F;linkerd.io&#x2F;&quot;&gt;Linkerd&lt;&#x2F;a&gt;, and &lt;a href=&quot;https:&#x2F;&#x2F;www.consul.io&#x2F;&quot;&gt;Consul&lt;&#x2F;a&gt;, which are all
+great in their own way. I just wanted to take some parts I like from each and make one that fits what I think a service mesh should be. It
+resembles Consul the most, but it isn&#x27;t an exact rewrite. The main problem I want to fix is making service meshes plug &amp;amp; play. Within Istio, it
+is difficult to integrate it into your already existing system. Some of the reasons why is it forces you to use a particular infrastructure you may
+not be using such as Prometheus, Grafana, and Jaegar. I want to take a different approach to this. I want to have the observability feature of my service mesh
+to be generic (a.k.a write a bunch of exporters to different formats that most popular infra tools support). I also have written a catalog that will
+continously maintain the state of the cluster by watching for changes. This functionality will help me reach the goal of making my service mesh
+plug &amp;amp; play.&lt;&#x2F;p&gt;
+&lt;p&gt;So far, I&#x27;ve laid out some groundwork for the catalog, injecting sidecars, and streaming gRPC between the side-car and the control plane. &lt;&#x2F;p&gt;
+&lt;p&gt;Here are a few things I need to figure out just so I don&#x27;t forget:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Need to figure out how init containers work so I can set up all my IP tables in there&lt;&#x2F;li&gt;
+&lt;li&gt;I should probably figure out the difference between &lt;code&gt;unwrap()&lt;&#x2F;code&gt;, &lt;code&gt;?&lt;&#x2F;code&gt;, and &lt;code&gt;expect()&lt;&#x2F;code&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;I also should probably find out how to idiomatically write asynchronous rust code, I feel I am calling &lt;code&gt;await&lt;&#x2F;code&gt; far too much.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Well today, I am going to continue to work on container injection and maybe have some code cleanup.&lt;&#x2F;p&gt;
+&lt;p&gt;Until next time,&lt;&#x2F;p&gt;
+&lt;p&gt;~ Dan&lt;&#x2F;p&gt;
+</description>
+            </item>
+        
+    </channel>
+</rss>
