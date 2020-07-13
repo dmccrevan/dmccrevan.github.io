@@ -6,7 +6,7 @@ tags=["Netting", "Development", "Embedded"]
 +++
 
 In my first post, I introduced [Netting](https://github.com/Netting-Mesh/netting) and spoke about keeping dev blogs here to go
-along with my development. Sadly, Netting was put to hold for a few reasons, but the main one being I think I was a bit in
+along with my development. Sadly, Netting was put to hold for a few reasons. The main one is that I think I was a bit in
 over my head when choosing to write an entire service mesh from scratch. I feel like writing a large project like that requires me to
 understand the concepts of existing ones in a deeper detail as well as being much more familiar with the language I am writing
 the project in. I had a general/somewhat deep understanding of [Istio](https://istio.io), but I didn't really dive into [Linkerd](https://linkerd.io)
