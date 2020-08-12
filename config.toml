@@ -11,6 +11,8 @@ taxonomies = [
     {name = "tags", rss = true}
 ]
 
+generate_feed = true
+
 [extra]
 
 date_format = "%a %b %e, %Y"
