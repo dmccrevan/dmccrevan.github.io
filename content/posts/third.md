@@ -6,8 +6,7 @@ tags=["Recurse", "Learning", "Rust"]
 +++
 
 Today was my *first* day of the full Fall 1 2020 batch at the [Recurse Center](https://recurse.com). Technically, I started on Monday for orientation, but I was
-away camping for the past few days, so I really started today. I am so grateful to have this opportunity since it will end right before I start my job at Wayfair. Also,
-after reading so much about it, I am super stoked to be able to pursue passion projects & learning with a great community in these next twelve weeks. 
+away camping for the past few days, so I really started today. I am so grateful to have this opportunity since it will end right before I start my job at Wayfair, as well as being able to pursue passion projects & learning with a great community in these next twelve weeks. 
 
 The area I am interested in learning more about is Rust (asynchronous runtimes in particular), compilers, systems programming, and the Linux kernel. A few project ideas I
 have come up with are:
