@@ -3,8 +3,6 @@ theme="sam"
 
 compile_sass = true
 
-sort_by = "date"
-
 highlight_code = true
 
 build_search_index = true
