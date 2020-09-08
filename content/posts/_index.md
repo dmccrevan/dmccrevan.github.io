@@ -1,6 +1,6 @@
 +++
 title = "Posts"
+sort_by = "none"
 +++
 
-sort_by = "none"
 
