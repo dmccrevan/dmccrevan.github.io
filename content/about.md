@@ -10,8 +10,7 @@ and a minor in Economics.
 I am particularly interested in areas of open source, systems programming, cloud-native, and developer productivity. I am also into compilers, type theory,
 and static analysis.
 
-I am currently working on [Netting](https://github.com/Netting-Mesh/netting), a simplified, plug & play service mesh entirely written in Rust. I am starting this
-blog to post my random ramblings about my development stories with this.
+I am currently attending the Fall batch of the [recurse center](https://www.recurse.com/). If you want to become a better programmer you should check it out!
 
 In my free time, I enjoy cooking, exploring the city, working out, and watching the Celtics, Red Sox, and Patriots. I am also trying to get back into fishing.
 
