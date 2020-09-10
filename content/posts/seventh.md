@@ -1,5 +1,5 @@
 +++
-title = "New hobby: Hiking the White Mountains"
+title = "Hiking the White Mountains"
 date = 2020-09-10
 [taxonomies]
 tags=["Hobby", "Hiking"]
