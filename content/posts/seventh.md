@@ -25,6 +25,8 @@ So far we have climbed the following:
  * Mount Layfette
  * Mount Lincoln
  * Mount Moosilake
+ * Mount Osceola
+ * Mount East Osceola
  * Mount Tom
  * Mount Wiley
  * Mount Field
