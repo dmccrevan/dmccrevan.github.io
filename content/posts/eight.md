@@ -1,6 +1,6 @@
 +++
 title = "Week 5 of Recurse"
-date = 2020-09-08
+date = 2020-09-14
 [taxonomies]
 tags=["Recurse", "Learning"]
 +++
