@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+	<title></title>
+	<link href="https://dmccrevan.github.io/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://dmccrevan.github.io"/>
+	<generator uri="https://www.getzola.org/">Zola</generator>
+	<updated>2020-11-02T00:00:00+00:00</updated>
+	<id>https://dmccrevan.github.io/atom.xml</id>
+	<entry xml:lang="en">
+		<title>Never graduate</title>
+		<published>2020-11-02T00:00:00+00:00</published>
+		<updated>2020-11-02T00:00:00+00:00</updated>
+		<link href="https://dmccrevan.github.io/posts/13/" type="text/html"/>
+		<id>https://dmccrevan.github.io/posts/13/</id>
+		<content type="html">&lt;p&gt;This is the first time in 2020 where I felt like time has escaped me.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;recurse-center-reflection&quot;&gt;Recurse center reflection&lt;&#x2F;h2&gt;
+&lt;p&gt;Twelve weeks ago, I started the Fall 1 batch at the &lt;a href=&quot;https:&#x2F;&#x2F;www.recurse.com&#x2F;&quot;&gt;recurse center&lt;&#x2F;a&gt;. I didn&#x27;t know what to expect other
+than that I will have a structure around this free time I didn&#x27;t expect to have. In the first few days, I thought I was going
+to be primarily working on my priority executor project, writing a Linux kernel module, and possibly diving deeper into lower level development. Even
+though I would&#x27;ve been perfectly happy doing all of this, I didn&#x27;t spend any of my time doing any of this. These past twelve weeks
+have been full of functional programming (Haskell) and compilers (LLVM). A full list of my accomplishments&#x2F;things I worked on are below:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Completed &lt;a href=&quot;https:&#x2F;&#x2F;www.seas.upenn.edu&#x2F;%7Ecis194&#x2F;fall16&#x2F;&quot;&gt;CIS 194&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Finished part of &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitemyapp&#x2F;fp-course&quot;&gt;fp-course&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Read chapters 1-8 of &lt;a href=&quot;https:&#x2F;&#x2F;www.amazon.com&#x2F;Engineering-Compiler-Keith-Cooper-ebook-dp-B00J5AS70G&#x2F;dp&#x2F;B00J5AS70G&#x2F;ref=mt_other?_encoding=UTF8&amp;amp;me=&amp;amp;qid=1597246799&quot;&gt;Engineering a compiler&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Read through &lt;a href=&quot;https:&#x2F;&#x2F;www.stephendiehl.com&#x2F;llvm&#x2F;&quot;&gt;Stephen Diehl&#x27;s tutorial&lt;&#x2F;a&gt; on writing a compiler in Haskell &amp;amp; began to fix up some modules&lt;&#x2F;li&gt;
+&lt;li&gt;Learned more about LLVM &amp;amp; currently in the process of submitting a bug fix to the upstream&lt;&#x2F;li&gt;
+&lt;li&gt;Wrote a &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;tkuriyama&#x2F;toydb&quot;&gt;SQL parser&lt;&#x2F;a&gt; with a recurse friend (Taro) for a toy database project&lt;&#x2F;li&gt;
+&lt;li&gt;Wrote an implementation of a hashmap in C&lt;&#x2F;li&gt;
+&lt;li&gt;Created a proof of concept for my priority executor project&lt;&#x2F;li&gt;
+&lt;li&gt;Wrote a barebones backtesting infrastructure in Haskell&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;I couldn&#x27;t imagine thinking that I would accomplish all of this when I first began, but I am so happy with the outcome of this. I 
+really felt like I found a passion of mine that I&#x27;ve been looking for, and I can&#x27;t wait to see where this brings me. Even though this is the end of
+my batch at recurse, I now know what it means to never graduate!&lt;&#x2F;p&gt;
+&lt;p&gt;A special thanks to all of the faculty at recurse and all of my FP &amp;amp; compiler friends that I met along the way during recurse!&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;what-is-next&quot;&gt;What is next?&lt;&#x2F;h2&gt;
+&lt;p&gt;Well, I am super grateful and fortunate to have had a job lined up before joining recurse so I could primarily focus on learning during my time there.
+I am joining Wayfair as a software engineer on November 9th. I&#x27;ll be doing a wide range of full-stack engineering in my role. I am super excited about what
+this experience will be like.&lt;&#x2F;p&gt;
+&lt;p&gt;Until next time,&lt;&#x2F;p&gt;
+&lt;p&gt;~ Dan&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Week 9 of Recurse</title>
+		<published>2020-10-12T00:00:00+00:00</published>
+		<updated>2020-10-12T00:00:00+00:00</updated>
+		<link href="https://dmccrevan.github.io/posts/twelve/" type="text/html"/>
+		<id>https://dmccrevan.github.io/posts/twelve/</id>
+		<content type="html">&lt;p&gt;This past week was filled with things reminding me that my time at recurse is closing into an end. I recently just found &amp;amp; applied to an apartment complex that I will be living in come to the start of
+my job in November, and for the functional programming group, we are deciding on a collaborative project to work on for our final few weeks here at recurse. It&#x27;s sad that it&#x27;s coming to the final
+stretch, but I am excited about this next chapter in my life especially with all the things I was able to learn and explore during these past couple of months. &lt;&#x2F;p&gt;
+&lt;p&gt;Last week was a pretty typical week for my progress, and with only three weeks left in my batch, I am going to be only focusing on projects so I can get into the &amp;quot;coding flow&amp;quot; come the time I start
+working. I am going to be focusing on a new side project I started, the compiler project, the systems programming exercises, and whatever project the functional programming group comes up with.&lt;&#x2F;p&gt;
+&lt;p&gt;The new side project I am working on is a backtesting application written entirely in Haskell. I am not sure exactly how I want the final thing to look like (mainly dealing with the front end usage), 
+but I have the idea for how I want the simulation to execute. The first idea is to provide infrastructure for building algorithms completely dependent on candlestick data &amp;amp; price. The model
+will contain open&#x2F;close&#x2F;high&#x2F;low data points of each candlestick. The user will then be able to write some functions that will tell the model to buy into a position or sell a current holding position.&lt;&#x2F;p&gt;
+&lt;p&gt;Until next time,&lt;&#x2F;p&gt;
+&lt;p&gt;~ Dan&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Week 8 of Recurse</title>
+		<published>2020-10-05T00:00:00+00:00</published>
+		<updated>2020-10-05T00:00:00+00:00</updated>
+		<link href="https://dmccrevan.github.io/posts/eleven/" type="text/html"/>
+		<id>https://dmccrevan.github.io/posts/eleven/</id>
+		<content type="html">&lt;p&gt;It is starting to feel like Fall here in New England. I have officially begun to have to wait for my car to heat up in the morning before going to the gym. That
+is typically a good indicator of when the warm weather has begun to pass. &lt;&#x2F;p&gt;
+&lt;p&gt;Last week I didn&#x27;t achieve everything I wanted to, but it was a very productive week. The reason behind the lack of progress was some unexpected speed bumps when setting up the PLFA &amp;amp; Compiler
+environments. Other than that though, it felt like a typical week. I was able to continue progress on the FP Course, completed the first chapter of PLFA (Agda is strange), worked
+on my elixir app, started a systems programming exercise, and finally scoped out the compiler study group course of action. The new systems programming exercise is a collection of
+&lt;a href=&quot;https:&#x2F;&#x2F;www.inf.usi.ch&#x2F;carzaniga&#x2F;edu&#x2F;sysprog17s&#x2F;exercises.html&quot;&gt;exercises&lt;&#x2F;a&gt;. I am going to start with the hash map implementation since this is the one that seems most challenging to me.&lt;&#x2F;p&gt;
+&lt;p&gt;For this upcoming week, I am taking a different approach to organizing my day &amp;amp; tasks and I have a few goals I want to achieve. The new way of organizing my day is with a simple notebook &amp;amp; pen
+rather than calcurse. I don&#x27;t have a reason for doing this other than I have always used some notebook as a productivity tool during most of my academic career. I have one for daily tasks,
+one for notes, and one for tracking my workout sessions. &lt;&#x2F;p&gt;
+&lt;p&gt;The goals I have for this upcoming week are the following:&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;health-fitness-goals&quot;&gt;Health &amp;amp; Fitness goals&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Workout everyday&lt;&#x2F;li&gt;
+&lt;li&gt;Fast at least 16 hours a day&lt;&#x2F;li&gt;
+&lt;li&gt;Limit my social media screen time to one hour a day&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;recurse-goals&quot;&gt;Recurse goals&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Work consistently from 9 AM-5 PM each day.&lt;&#x2F;li&gt;
+&lt;li&gt;Read one blog post per day&lt;&#x2F;li&gt;
+&lt;li&gt;Finish my elixir app&lt;&#x2F;li&gt;
+&lt;li&gt;Make progress on each study group&#x27;s material&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;other&quot;&gt;Other&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Declutter my work area (even though it&#x27;s already pretty minimal)&lt;&#x2F;li&gt;
+&lt;li&gt;Set up my raspberry pi as a backup server&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Until next time,&lt;&#x2F;p&gt;
+&lt;p&gt;~ Dan&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Week 7 of Recurse</title>
+		<published>2020-09-28T00:00:00+00:00</published>
+		<updated>2020-09-28T00:00:00+00:00</updated>
+		<link href="https://dmccrevan.github.io/posts/ten/" type="text/html"/>
+		<id>https://dmccrevan.github.io/posts/ten/</id>
+		<content type="html">&lt;p&gt;It is a weird feeling that next week is the end of September, it almost feels like I never realized it was even September. That may be due to this being
+my first year out of schooling along with 2020 being a strange year altogether.&lt;&#x2F;p&gt;
+&lt;p&gt;Last week was a refreshing context switch. I joined a new group, tried out new technology, started a new FP course, and changed the structure of the compiler reading
+group. The new group I joined is the Programming Languages &amp;amp; Type Theory Study Group. We are currently deciding what book we are going to read, but the suggested
+ones so far all seem interesting. &lt;&#x2F;p&gt;
+&lt;p&gt;In regards to the functional programming study group, we hit a cool milestone by finishing by CIS 194. This course was a fantastic
+introduction to pure functional programming with Haskell. We are now moving on to the &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitemyapp&#x2F;fp-course&quot;&gt;FP Course&lt;&#x2F;a&gt; which is the suggested
+follow-up course to CIS 194. It seems to be more hands-on which is going to be helpful for myself.&lt;&#x2F;p&gt;
+&lt;p&gt;For the compiler study group, we are switching from reading Engineering a compiler to following a guide to build some sort of compiler&#x2F;interpreter. Next week we will be
+determining what exactly we are going to do, but we have collectively agreed on writing our project in Haskell. This is a nice switch up for the group since we were about
+400 pages into the book, and it seemed like it was a good time to take a more hands-on approach. &lt;&#x2F;p&gt;
+&lt;p&gt;This coming week will be fun since it&#x27;s going to be the first real week of all of the new curriculum I am going to be following, and for a side thing I am trying out a new
+editing environment, &lt;a href=&quot;https:&#x2F;&#x2F;www.spacemacs.org&#x2F;&quot;&gt;spacemacs&lt;&#x2F;a&gt;. &lt;&#x2F;p&gt;
+&lt;p&gt;Until next time,
+~ Dan&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Week 6 of Recurse</title>
+		<published>2020-09-21T00:00:00+00:00</published>
+		<updated>2020-09-21T00:00:00+00:00</updated>
+		<link href="https://dmccrevan.github.io/posts/nine/" type="text/html"/>
+		<id>https://dmccrevan.github.io/posts/nine/</id>
+		<content type="html">&lt;p&gt;And I am officially halfway through recurse! This blog post will be a typical weekly update with more of a reflection style to it.&lt;&#x2F;p&gt;
+&lt;p&gt;Last week I felt not as productive, but I think that is because on Friday I spent a lot of my day packing up for the weekend trip I just did (Hiked Mount Katahdin in Baxter State Park).
+I wasn&#x27;t able to attend the ML presentation due to trying to get all of my other work done within 4 days, but I still feel like I accomplished enough. The FP group and I finished up
+week 11 reading and homework which means next week we&#x27;ll be finishing up the last week of CIS 194. These past few chapters dealing with Functors and Applicatives have been the most
+challenging by far since these are concepts that don&#x27;t show up in imperative languages or non-pure functional languages. I&#x27;m going to set some time aside this week to read the
+&lt;a href=&quot;http:&#x2F;&#x2F;learnyouahaskell.com&#x2F;&quot;&gt;LYAH&lt;&#x2F;a&gt; modules on these topics.&lt;&#x2F;p&gt;
+&lt;p&gt;For the compiler group, we read about code shape. This focused on topics such as control flow constructs, storing record type objects &amp;amp; arrays, and storage location assignments. This
+felt like a combination of the last few chapters while filling in details we didn&#x27;t cover in those chapters. The more we read this book, the more we come across situations where
+there are multiple techniques to solve problems that are being addressed, and I feel like I am becoming more comfortable in intuitively deciding which one I think would make more sense.
+Since the Fall 2 batch recently started at recurse, we are starting a new compiler study group that will continue the reading as well as adding a day (Tuesdays) to take a more 
+hands-on approach to learning about compilers.&lt;&#x2F;p&gt;
+&lt;p&gt;Throughout these past weeks at recurse, I have truly felt like I have accomplished the vision for myself when it comes to self-learning. Being a recent graduate from college, I always
+had these things I wanted to learn about, but I just felt like I never established a good routine for myself to learn about topics outside of my curriculum. Recurse has brought this
+structure to my life that has allowed me to accomplish this vision. I never could have seen myself about to finish a self-motivated computer science course on functional
+programming, have read 300+ pages of a compiler textbook, and make real progress on a side project. This has had effects on multiple parts of my life as well. Ever
+since I have started recurse, I have been exercising 6, sometimes 7, days a week. I really can&#x27;t wait to see what else I accomplish in these next six weeks.&lt;&#x2F;p&gt;
+&lt;p&gt;Next week I plan on joining my typical meetings, and I am also going to check out the Designing data intensive apps book club. The main reason behind joining this is I want
+to learn about something I am not typically interested in (similar to the reason behind joining the ML presentations).&lt;&#x2F;p&gt;
+&lt;p&gt;Until next time,
+~ Dan&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Week 5 of Recurse</title>
+		<published>2020-09-14T00:00:00+00:00</published>
+		<updated>2020-09-14T00:00:00+00:00</updated>
+		<link href="https://dmccrevan.github.io/posts/eight/" type="text/html"/>
+		<id>https://dmccrevan.github.io/posts/eight/</id>
+		<content type="html">&lt;p&gt;Since this marks the conclusion of my fifth week in Recurse, next week is halfway...wow does time fly!&lt;&#x2F;p&gt;
+&lt;p&gt;Last week I was able to accomplish my typical tasks of reading a chapter of the compiler book, going through CIS 194, and working on side projects. I also attended the ML presentation
+given this week which covered neural networks. I think I will continue to attend these even though I have very limited knowledge in the machine learning area. Learning about
+new things is always interesting and a nice break from typical work. &lt;&#x2F;p&gt;
+&lt;p&gt;The chapter the compiler group and I covered was the most intriguing chapter yet. We covered procedure abstraction which dove deep into namespaces, procedure communication, and linkage.
+Learning about how different programming paradigms handle constructing environments for procedures to operate in gave me a viewpoint I never acknowledged before. The way I interpreted it,
+is object-oriented languages such as python with open class structures can have performance issues if a program modifies the class fields &amp;amp; methods during runtime. I want to learn more
+about this so I think I will set up a research &amp;amp; hack session this week to dive into this (maybe write a blog post about my findings too!)&lt;&#x2F;p&gt;
+&lt;p&gt;Last week for CIS 194, we learned about the IO Monad and functors. Functors are interesting, I am not entirely certain what they are yet, I just know that any type that implements 
+&lt;code&gt;fmap&lt;&#x2F;code&gt; is defined as a functor.&lt;&#x2F;p&gt;
+&lt;p&gt;This week I&#x27;ll be continuing my typical schedule of work as well as setting up that research &amp;amp; hack session.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;xkcd.com&#x2F;1312&#x2F;&quot;&gt;Here&#x27;s&lt;&#x2F;a&gt; a funny xkcd I came across this weekend.&lt;&#x2F;p&gt;
+&lt;p&gt;Until next time
+~ Dan&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Hiking the White Mountains</title>
+		<published>2020-09-10T00:00:00+00:00</published>
+		<updated>2020-09-10T00:00:00+00:00</updated>
+		<link href="https://dmccrevan.github.io/posts/seventh/" type="text/html"/>
+		<id>https://dmccrevan.github.io/posts/seventh/</id>
+		<content type="html">&lt;p&gt;Starting in May, my girlfriend and I began hiking together more consistently. We had gone in the past, but not ever consistently or purposefully. We wanted to start a hobby
+that was both active and social-distanced, so hiking met both of these criteria. We started by hiking Mount Major in Alton, NH. After that, we wanted to do something a bit more
+adventurous so we completed the Mount Morgan and Percival loop. This included climbing ladders mounted on the side of the mountain and cliff scaling. Both of these hikes were fun and had great views, but we wanted to challenge ourselves even more. After some research on hiking in New England, we came across the &lt;a href=&quot;http:&#x2F;&#x2F;4000footers.com&#x2F;list_nh48.shtml&quot;&gt;NH 48&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;the-beginning-of-the-48&quot;&gt;The beginning of the 48&lt;&#x2F;h1&gt;
+&lt;p&gt;To start our journey to conquering the 48 4000 foot peaks, we chose to do Mount Tecumseh. The reason behind this was it was labeled as one of the easier hikes as well as being the
+lowest peak. It was a great introduction to the 48, but I actually wouldn&#x27;t say it was the easiest one we have done so far. Our next hike was to this day still one of my
+favorites, the Franconia Ridge Trail. This hike was astonishing even though we were up in the clouds at the peaks. The entire time on the ridge, I felt like I was in
+&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Middle-earth&quot;&gt;Middle-earth&lt;&#x2F;a&gt;. Luckily both my girlfriend and I are in decent shape so we were fine doing this hike, but this is rated as one of the more
+difficult of the 48 as well as being a lot longer and steeper than our previous hike. Due to parking in the overflow lot, we clocked a total of 13 miles for this hike (typically around 9
+without the walk to the overflow lot). This hike humbled us yet it also made us even more excited for our next hike.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;15-peaks-later&quot;&gt;15 peaks later&lt;&#x2F;h1&gt;
+&lt;p&gt;As of today, we have completed 15 out of the 48 peaks. This took us about 2 months and hopefully by the end of 2020, we will have around 20-25 peaks. 
+So far we have climbed the following:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Mount Tecumseh&lt;&#x2F;li&gt;
+&lt;li&gt;Mount Layfette&lt;&#x2F;li&gt;
+&lt;li&gt;Mount Lincoln&lt;&#x2F;li&gt;
+&lt;li&gt;Mount Moosilake&lt;&#x2F;li&gt;
+&lt;li&gt;Mount Osceola&lt;&#x2F;li&gt;
+&lt;li&gt;Mount East Osceola&lt;&#x2F;li&gt;
+&lt;li&gt;Mount Tom&lt;&#x2F;li&gt;
+&lt;li&gt;Mount Wiley&lt;&#x2F;li&gt;
+&lt;li&gt;Mount Field&lt;&#x2F;li&gt;
+&lt;li&gt;Mount Jackson&lt;&#x2F;li&gt;
+&lt;li&gt;Mount Tripyramid, North Peak&lt;&#x2F;li&gt;
+&lt;li&gt;Mount Tripyramid, Middle Peak &lt;&#x2F;li&gt;
+&lt;li&gt;Cannon Mountain&lt;&#x2F;li&gt;
+&lt;li&gt;Mount Liberty&lt;&#x2F;li&gt;
+&lt;li&gt;Mount Flume&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;We have begun to enjoy &lt;a href=&quot;http:&#x2F;&#x2F;4000footers.com&#x2F;peakbagging.shtml&quot;&gt;peak bagging&lt;&#x2F;a&gt; more since we can check off more peaks in a single hike. Our next goal is to begin to do long
+traverses that hit 5+ peaks. The one we are planning to do next summer is the &lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Presidential_Traverse&quot;&gt;Presidential Traverse&lt;&#x2F;a&gt;. This is also going to be our
+first overnight hike, it can be done within one day, but we want to do an overnight hike.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;tips-for-beginners&quot;&gt;Tips for beginners&lt;&#x2F;h1&gt;
+&lt;p&gt;I am by no means an expert in the white mountains or even an expert hiker at all, but I just wanted to share a few things that I have learned through my experience so far.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;quantifying-difficulty&quot;&gt;Quantifying difficulty&lt;&#x2F;h2&gt;
+&lt;p&gt;Difficulty ratings are super subjective. If you are looking for a consistent difficulty rating scale with these mountains, you aren&#x27;t going to find one. Different websites&#x2F;blogs
+all rate them differently and I bet you will probably find yourself disagreeing with a lot of their ratings as have I. Difficulty depends heavily on context as well, I think my
+Tom, Wiley, and Field hike was by far the most difficult because it was raining and there were limited views. This was a mentally tough hike which was harder to deal with for me. 
+compared to the Beaver Brook trail for Moosilake which was much more physically demanding. &lt;&#x2F;p&gt;
+&lt;p&gt;If you are trying to quantify the physical difficulty, I would suggest looking at a trail map that shows the gradient of the trail. Some hikes, such as Moosilake,
+don&#x27;t have a crazy amount of elevation to be gained, but it&#x27;s almost all gained within the first 1.5 miles of the trail making it very strenuous.&lt;&#x2F;p&gt;
+&lt;p&gt;Finally, to note again, the best way to get a feel for what you are comfortable doing is just by getting out there and attempting a few trails. Building out your own
+difficulty model will benefit you more for the future of hiking.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;the-water-balance&quot;&gt;The water balance&lt;&#x2F;h2&gt;
+&lt;p&gt;Ensuring you have enough water is an absolute must for hiking, especially in the summer. &lt;em&gt;But&lt;&#x2F;em&gt; overloading water can cause issues as well. On your first hike, I would suggest
+carrying a little extra since you might not know exactly how much you&#x27;ll need, but then after that, I would try calculating how much you&#x27;ll need. I tracked how much water I drank on each
+hike and was able to estimate a per mile consumption that is favoring the higher end (just to be safe). Overloading water is safer than underpacking, but be prepared to carry
+that extra weight up the mountain.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;get-a-hiking-backpack&quot;&gt;Get a hiking backpack&lt;&#x2F;h2&gt;
+&lt;p&gt;If you feel like you want to consistently hike and you can afford to, I would suggest investing in a hiking backpack with a waist strap and water bladder. The waist strap of backpacks
+takes a chunk of weight off your shoulders and upper back. This reduced soreness for me by a large margin. The water bladder as well has been a huge helper because of 
+the weight distribution. &lt;em&gt;Water is heavy&lt;&#x2F;em&gt;. Having a bunch of water bottles at the bottom of your backpack can cause strain on your upper body, with the bladder being almost parallel with
+your back makes it a lot easier to carry. &lt;&#x2F;p&gt;
+&lt;p&gt;I hope this post was interesting to read and helpful for new hikers! &lt;&#x2F;p&gt;
+&lt;p&gt;It&#x27;s nicer outside,&lt;&#x2F;p&gt;
+&lt;p&gt;~ Dan &lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Week 4 of Recurse</title>
+		<published>2020-09-08T00:00:00+00:00</published>
+		<updated>2020-09-08T00:00:00+00:00</updated>
+		<link href="https://dmccrevan.github.io/posts/sixth/" type="text/html"/>
+		<id>https://dmccrevan.github.io/posts/sixth/</id>
+		<content type="html">&lt;p&gt;So last week was another successful week where I felt I just had a good groove going from the prior week and kept the momentum up. I was able to 
+continue my Haskell&#x2F;compiler learning with the study groups, I feel there are a few areas I want to dive deeper into with Haskell such as Monads &amp;amp; Monoids, but
+I felt I got a good grasp of everything else we covered in these study groups. I also was able to start a mini project in Haskell to take a more applied approach to
+learn the language. I am writing a very simple stock price alert program. The idea is for it to be able to read in a particular ticker, target price, and cut loss price
+then produce notifications (through my notification-daemon dunst) if the stock ticker has reached either the target price or cut loss price. This project seems like a good
+way to learn how Haskell HTTP &amp;amp; notify libraries work along with learning how to structure a real Haskell program. &lt;&#x2F;p&gt;
+&lt;p&gt;This coming week I hope to continue my learning with Haskell &amp;amp; compilers as well as work on my two projects. I also want to write a blog post about &lt;em&gt;something&lt;&#x2F;em&gt; other than
+weekly updates of recurse, so hopefully I&#x27;ll come across something cool soon to write about!&lt;&#x2F;p&gt;
+&lt;p&gt;~ Dan&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Week 3 of Recurse</title>
+		<published>2020-08-28T00:00:00+00:00</published>
+		<updated>2020-08-28T00:00:00+00:00</updated>
+		<link href="https://dmccrevan.github.io/posts/fifth/" type="text/html"/>
+		<id>https://dmccrevan.github.io/posts/fifth/</id>
+		<content type="html">&lt;p&gt;Wow, three weeks of Recurse already! This week was the first week where I felt like I was in a groove and solidified what I want to be working on. I have
+essentially narrowed my work down to attending both the compiler &amp;amp; functional programming study groups, working on my priority executor project, and planning
+on pairing with a peer to work through &lt;a href=&quot;https:&#x2F;&#x2F;craftinginterpreters.com&#x2F;&quot;&gt;Crafting Interpreters&lt;&#x2F;a&gt; (except we&#x27;ll be translating the code in Haskell rather than
+Java). &lt;&#x2F;p&gt;
+&lt;p&gt;This week I was able to accomplish progress on all of my goals. I was able to add the binary heap data structure to my priority executor project. It now has all of the base
+functionality I want for it, next up for it is to clean up the codebase &amp;amp; learn how to structure a library idiomatically in Rust. This week was also a very eye-opening week within
+my Haskell learning, in particular today. In our group, we watched a &lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=srQt1NAHYC0&quot;&gt;lecture&lt;&#x2F;a&gt; on functional programming design patterns. Scott Wlaschin,
+the one giving the talk, clearly explained partial applications and monads in a way that I feel like I have a much better understanding of how to use them when programming.&lt;&#x2F;p&gt;
+&lt;p&gt;Hoping that the momentum keeps up and I accomplish more by next week!&lt;&#x2F;p&gt;
+&lt;p&gt;~ Dan&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Week 2 of Recurse</title>
+		<published>2020-08-21T00:00:00+00:00</published>
+		<updated>2020-08-21T00:00:00+00:00</updated>
+		<link href="https://dmccrevan.github.io/posts/fourth/" type="text/html"/>
+		<id>https://dmccrevan.github.io/posts/fourth/</id>
+		<content type="html">&lt;p&gt;Today marks the end of my second week at Recurse. What an awesome time it has been so far! This past week was open-source week at RC so I was able to attend
+in a few open source workshops that were very fascinating. This past week also gave me a better perspective on what I am more interested in focusing on
+and how to mold my project goals to fit that. &lt;&#x2F;p&gt;
+&lt;p&gt;My days have consisted of attending the functional programming group meetings in the morning, reading through &lt;a href=&quot;https:&#x2F;&#x2F;www.amazon.com&#x2F;Engineering-Compiler-Keith-Cooper&#x2F;dp&#x2F;012088478X&quot;&gt;Engineering a Compiler&lt;&#x2F;a&gt;, working on my &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;dmccrevan&#x2F;priority-executor&quot;&gt;Rust priority executor&lt;&#x2F;a&gt;, and attending the compiler
+study group meetings. Most of my time this week was dedicated to the Haskell exercises for the functional programming material and the reading material for the compiler group. 
+Even though I am only working on my priority executor from my original project goals, I like the way my experience has shaped into so far. I am starting to appreciate the
+technical textbooks a lot more than I did during my time at college. &lt;&#x2F;p&gt;
+&lt;p&gt;The way I see myself moving forward with my goals is by focusing on my rust project as well as starting only one other project that will be an application of my learning
+in FP &amp;amp; compilers. A few peers of mine have discussed writing an arithmetic compiler in Haskell, I like this idea.&lt;&#x2F;p&gt;
+&lt;p&gt;I am very excited to see what this next week holds!&lt;&#x2F;p&gt;
+&lt;p&gt;~ Dan&lt;&#x2F;p&gt;
+&lt;p&gt;P.S. If you&#x27;re into Haskell &amp;amp; monads, here&#x27;s a funny little code snippet:&lt;&#x2F;p&gt;
+&lt;pre style=&quot;background-color:#2b303b;&quot;&gt;
+&lt;code&gt;&lt;span style=&quot;color:#c0c5ce;&quot;&gt;toMaybe :: Int -&amp;gt; Maybe Int
+toMaybe 0 = Nothing
+toMaybe x = Just x
+
+test = toMaybe &amp;lt;$&amp;gt; Just 0
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;p&gt;Then invoke &lt;code&gt;test&lt;&#x2F;code&gt; to find the funny result, at least in my opinion it is&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Day 1 of Recurse</title>
+		<published>2020-08-12T00:00:00+00:00</published>
+		<updated>2020-08-12T00:00:00+00:00</updated>
+		<link href="https://dmccrevan.github.io/posts/third/" type="text/html"/>
+		<id>https://dmccrevan.github.io/posts/third/</id>
+		<content type="html">&lt;p&gt;Today was my &lt;em&gt;first&lt;&#x2F;em&gt; day of the full Fall 1 2020 batch at the &lt;a href=&quot;https:&#x2F;&#x2F;recurse.com&quot;&gt;Recurse Center&lt;&#x2F;a&gt;. Technically, I started on Monday for orientation, but I was
+away camping for the past few days, so I really started today. I am so grateful to have this opportunity since it will end right before I start my job at Wayfair, as well as being able to pursue passion projects &amp;amp; learning with a great community in these next twelve weeks. &lt;&#x2F;p&gt;
+&lt;p&gt;The area I am interested in learning more about is Rust (asynchronous runtimes in particular), compilers, systems programming, and the Linux kernel. A few project ideas I
+have come up with are:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;An asynchronous runtime (or maybe just an executor)&lt;&#x2F;li&gt;
+&lt;li&gt;A tiny C compiler&lt;&#x2F;li&gt;
+&lt;li&gt;A kernel module&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;So far, I have joined the morning check-ins meeting and a compiler study group. In the compiler study group, I want to collaborate to try to work on open-source compiler projects as well
+as go through the book we agreed to read: &lt;a href=&quot;https:&#x2F;&#x2F;www.amazon.com&#x2F;Engineering-Compiler-Keith-Cooper-ebook-dp-B00J5AS70G&#x2F;dp&#x2F;B00J5AS70G&#x2F;ref=mt_other?_encoding=UTF8&amp;amp;me=&amp;amp;qid=1597246799&quot;&gt;Engineering a compiler&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;Even though I have a few project ideas listed above, my end goal of the batch is to gain a deeper understanding of the areas I&#x27;m interested in. Even if this means I don&#x27;t finish any of my projects, or I switch from working on my own project to open-source ones, I am open to it as long as I feel like I&#x27;m learning more each day.&lt;&#x2F;p&gt;
+&lt;p&gt;Excited to see what these next twelve weeks bring!&lt;&#x2F;p&gt;
+&lt;p&gt;~ Dan&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Update on Netting + new projects</title>
+		<published>2020-07-10T00:00:00+00:00</published>
+		<updated>2020-07-10T00:00:00+00:00</updated>
+		<link href="https://dmccrevan.github.io/posts/second/" type="text/html"/>
+		<id>https://dmccrevan.github.io/posts/second/</id>
+		<content type="html">&lt;p&gt;In my first post, I introduced &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;Netting-Mesh&#x2F;netting&quot;&gt;Netting&lt;&#x2F;a&gt; and spoke about keeping dev blogs here to go
+along with my development. Sadly, Netting was put to hold for a few reasons. The main one is that I think I was a bit in
+over my head when choosing to write an entire service mesh from scratch. I feel like writing a large project like that requires me to
+understand the concepts of existing ones in a deeper detail as well as being much more familiar with the language I am writing
+the project in. I had a general&#x2F;somewhat deep understanding of &lt;a href=&quot;https:&#x2F;&#x2F;istio.io&quot;&gt;Istio&lt;&#x2F;a&gt;, but I didn&#x27;t really dive into &lt;a href=&quot;https:&#x2F;&#x2F;linkerd.io&quot;&gt;Linkerd&lt;&#x2F;a&gt;
+or &lt;a href=&quot;https:&#x2F;&#x2F;consul.io&quot;&gt;Consul&lt;&#x2F;a&gt; as I should&#x27;ve. Along with that, I feel I am just now becoming intermediately skilled at Rust, but
+for a project large like a service mesh, I should have more experience writing in the language of choice.&lt;&#x2F;p&gt;
+&lt;p&gt;So to pivot in my free-time coding, I bought a Raspberry Pi 3 A+ for my own self-learning experience in embedded&#x2F;systems programming. I plan to
+do a variety of different things with this such as writing some low overhead projects to run on this, learn more about linux (maybe do a LFS to deploy onto this), and other projects in that area. The reason being is I am getting more interested in the lower level area with things such as operating systems, compilers, embedded development, and lower level languages.&lt;&#x2F;p&gt;
+&lt;p&gt;To start in this area, I&#x27;ve been refreshing my memory on C++, learning how to compile to ARM, and starting a mini project to deploy onto the Pi. The project I am writing now is a simple agnostic statistic collector to run on the Pi. The main process is being written in Rust. It is configured with plugins (which can be written in any language), then it&#x27;ll scan to see if these plugins have any statistics to produce, and if so build an email report of these statistics to email them off to my personal email. It is a fairly simple project, but I have found it to be a great learning experience so far.&lt;&#x2F;p&gt;
+&lt;p&gt;Things I want to understand better for next time are:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Difference between &lt;code&gt;gnuabi&lt;&#x2F;code&gt; and &lt;code&gt;gnuabihf&lt;&#x2F;code&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Some basic conceptual differences between x86 &amp;amp; ARM&lt;&#x2F;li&gt;
+&lt;li&gt;How to produce a production ready Rust binary&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Also a quick shout-out to &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;rust-embedded&#x2F;cross&quot;&gt;Cross&lt;&#x2F;a&gt;. This is an &lt;strong&gt;amazing&lt;&#x2F;strong&gt; tool that makes building Rust to other platforms seamless. Highly recommend.&lt;&#x2F;p&gt;
+&lt;p&gt;Until next time,&lt;&#x2F;p&gt;
+&lt;p&gt;~ Dan&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Netting Dev Blog #1</title>
+		<published>2020-05-15T00:00:00+00:00</published>
+		<updated>2020-05-15T00:00:00+00:00</updated>
+		<link href="https://dmccrevan.github.io/posts/first/" type="text/html"/>
+		<id>https://dmccrevan.github.io/posts/first/</id>
+		<content type="html">&lt;p&gt;Welcome to my first development blog about &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;Netting-Mesh&#x2F;netting&quot;&gt;Netting&lt;&#x2F;a&gt;. In this series, I am going to be posting updates
+about the project and any cool findings during my time developing.&lt;&#x2F;p&gt;
+&lt;p&gt;To introduce you to the project, I am going to copy&#x2F;paste the description I have
+in my &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;Netting-Mesh&#x2F;netting&#x2F;blob&#x2F;master&#x2F;README.md&quot;&gt;README&lt;&#x2F;a&gt;:&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Netting is an unopinionated, simple, fast service mesh written in Rust. Its main goal is to solve the
+issue service mesh&#x27;s face now with forcing users into using specific infrastructure as well as being
+hard to integrate into an already existing Kubernetes cluster. Netting will be a plug &amp;amp; play type of 
+mesh.&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;I have been exposed to technologies like &lt;a href=&quot;https:&#x2F;&#x2F;istio.io&quot;&gt;Istio&lt;&#x2F;a&gt;, &lt;a href=&quot;https:&#x2F;&#x2F;linkerd.io&#x2F;&quot;&gt;Linkerd&lt;&#x2F;a&gt;, and &lt;a href=&quot;https:&#x2F;&#x2F;www.consul.io&#x2F;&quot;&gt;Consul&lt;&#x2F;a&gt;, which are all
+great in their own way. I just wanted to take some parts I like from each and make one that fits what I think a service mesh should be. It
+resembles Consul the most, but it isn&#x27;t an exact rewrite. The main problem I want to fix is making service meshes plug &amp;amp; play. Within Istio, it
+is difficult to integrate it into your already existing system. Some of the reasons why is it forces you to use a particular infrastructure you may
+not be using such as Prometheus, Grafana, and Jaegar. I want to take a different approach to this. I want to have the observability feature of my service mesh
+to be generic (a.k.a write a bunch of exporters to different formats that most popular infra tools support). I also have written a catalog that will
+continously maintain the state of the cluster by watching for changes. This functionality will help me reach the goal of making my service mesh
+plug &amp;amp; play.&lt;&#x2F;p&gt;
+&lt;p&gt;So far, I&#x27;ve laid out some groundwork for the catalog, injecting sidecars, and streaming gRPC between the side-car and the control plane. &lt;&#x2F;p&gt;
+&lt;p&gt;Here are a few things I need to figure out just so I don&#x27;t forget:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Need to figure out how init containers work so I can set up all my IP tables in there&lt;&#x2F;li&gt;
+&lt;li&gt;I should probably figure out the difference between &lt;code&gt;unwrap()&lt;&#x2F;code&gt;, &lt;code&gt;?&lt;&#x2F;code&gt;, and &lt;code&gt;expect()&lt;&#x2F;code&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;I also should probably find out how to idiomatically write asynchronous rust code, I feel I am calling &lt;code&gt;await&lt;&#x2F;code&gt; far too much.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Well today, I am going to continue to work on container injection and maybe have some code cleanup.&lt;&#x2F;p&gt;
+&lt;p&gt;Until next time,&lt;&#x2F;p&gt;
+&lt;p&gt;~ Dan&lt;&#x2F;p&gt;
+</content>
+	</entry>
+</feed>

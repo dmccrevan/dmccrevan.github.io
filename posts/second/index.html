@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="chrome=1">
+        <meta name="HandheldFriendly" content="True">
+        <meta name="MobileOptimized" content="320">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="referrer" content="no-referrer">
+
+        <link rel="stylesheet" href="https:&#x2F;&#x2F;dmccrevan.github.io&#x2F;fonts.css">
+        <link rel="stylesheet" href="https:&#x2F;&#x2F;dmccrevan.github.io&#x2F;style.css">
+
+        <title>
+    Update on Netting + new projects
+</title>
+
+        
+    </head>
+    <body>
+        
+    <div class="wrap">
+        <div class="section" id="title">
+            
+    Update on Netting + new projects
+
+        </div>
+        <div class="section" id="content">
+            
+    
+        
+            
+    
+    Fri Jul 10, 2020
+
+        
+        
+            
+                &#183; 427 words
+            
+        
+        
+            
+            
+                &#183; 3 min
+            
+        
+        
+            <div class="tag-container">
+                
+                    <span class="tag">
+                        <a href="https:&#x2F;&#x2F;dmccrevan.github.io&#x2F;tags&#x2F;netting&#x2F;">
+                            Netting
+                        </a>
+                    </span>
+                
+                    <span class="tag">
+                        <a href="https:&#x2F;&#x2F;dmccrevan.github.io&#x2F;tags&#x2F;development&#x2F;">
+                            Development
+                        </a>
+                    </span>
+                
+                    <span class="tag">
+                        <a href="https:&#x2F;&#x2F;dmccrevan.github.io&#x2F;tags&#x2F;embedded&#x2F;">
+                            Embedded
+                        </a>
+                    </span>
+                
+            </div>
+        
+        <hr/>
+    
+    <p>In my first post, I introduced <a href="https://github.com/Netting-Mesh/netting">Netting</a> and spoke about keeping dev blogs here to go
+along with my development. Sadly, Netting was put to hold for a few reasons. The main one is that I think I was a bit in
+over my head when choosing to write an entire service mesh from scratch. I feel like writing a large project like that requires me to
+understand the concepts of existing ones in a deeper detail as well as being much more familiar with the language I am writing
+the project in. I had a general/somewhat deep understanding of <a href="https://istio.io">Istio</a>, but I didn't really dive into <a href="https://linkerd.io">Linkerd</a>
+or <a href="https://consul.io">Consul</a> as I should've. Along with that, I feel I am just now becoming intermediately skilled at Rust, but
+for a project large like a service mesh, I should have more experience writing in the language of choice.</p>
+<p>So to pivot in my free-time coding, I bought a Raspberry Pi 3 A+ for my own self-learning experience in embedded/systems programming. I plan to
+do a variety of different things with this such as writing some low overhead projects to run on this, learn more about linux (maybe do a LFS to deploy onto this), and other projects in that area. The reason being is I am getting more interested in the lower level area with things such as operating systems, compilers, embedded development, and lower level languages.</p>
+<p>To start in this area, I've been refreshing my memory on C++, learning how to compile to ARM, and starting a mini project to deploy onto the Pi. The project I am writing now is a simple agnostic statistic collector to run on the Pi. The main process is being written in Rust. It is configured with plugins (which can be written in any language), then it'll scan to see if these plugins have any statistics to produce, and if so build an email report of these statistics to email them off to my personal email. It is a fairly simple project, but I have found it to be a great learning experience so far.</p>
+<p>Things I want to understand better for next time are:</p>
+<ul>
+<li>Difference between <code>gnuabi</code> and <code>gnuabihf</code></li>
+<li>Some basic conceptual differences between x86 &amp; ARM</li>
+<li>How to produce a production ready Rust binary</li>
+</ul>
+<p>Also a quick shout-out to <a href="https://github.com/rust-embedded/cross">Cross</a>. This is an <strong>amazing</strong> tool that makes building Rust to other platforms seamless. Highly recommend.</p>
+<p>Until next time,</p>
+<p>~ Dan</p>
+
+
+        </div>
+        
+    <div class="section bottom-menu">
+        <hr/>
+        <p>
+            
+                
+                    <a href="&#x2F;posts">posts</a>
+                    &#183;
+                
+                    <a href="&#x2F;about">about</a>
+                    &#183;
+                
+                    <a href="https:&#x2F;&#x2F;github.com&#x2F;dmccrevan">github</a>
+                    &#183;
+                
+            
+            <a href="https:&#x2F;&#x2F;dmccrevan.github.io">
+                home
+            </a>
+        </p>
+    </div>
+
+        
+    
+
+    </div>
+
+    </body>
+</html>
